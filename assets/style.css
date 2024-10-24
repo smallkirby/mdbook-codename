@@ -1,0 +1,10 @@
+div.codeblock_filename_container + pre {
+  margin-top: 0;
+}
+
+span.codeblock_filename_inner {
+  border-radius: 0.4rem 0.4rem 0 0;
+  padding: 0.6rem 1rem 0.6rem 1rem;
+  font-family: var(--mono-font) !important;
+  font-size: var(--code-font-size);
+}

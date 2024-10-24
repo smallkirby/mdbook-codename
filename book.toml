@@ -1,0 +1,8 @@
+[book]
+authors = ["smallkirby"]
+language = "en"
+multilingual = false
+src = "example"
+title = "mdbook-codename"
+
+[preprocessor.codename]
