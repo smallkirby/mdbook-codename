@@ -1,5 +1,7 @@
 # mdbook-codename
 
+![Publish](https://github.com/smallkirby/mdbook-codename/actions/workflows/publish.yml/badge.svg)
+
 mdbook-codename is a [mdBook](https://github.com/rust-lang/mdBook) preprocessor
 to show a filename of the Markdown codeblock.
 
