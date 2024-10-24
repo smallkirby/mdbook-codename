@@ -60,7 +60,7 @@ impl Codeblock {
             let lang = if s.contains('.') {
                 Some(s.split('.').last().unwrap().into())
             } else {
-                None
+                Some(s.into())
             };
 
             (lang, Some(s.into()))

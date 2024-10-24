@@ -41,7 +41,7 @@ void hello(void) {
 }
 ```
 
-If the filename does not contain a extension, the language is not detected:
+If the filename does not contain a extension, it is regarded both as a filename and a language:
 
 ```c
 void hello(void) {
